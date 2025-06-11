@@ -2,15 +2,13 @@ name: Generate Snake Game from Contributions Grid
 
 on:
   schedule:
-    - cron: "0 0 * * *"    # 每天 0 点自动执行一次（UTC 时间）
+    - cron: "0 0 * * *" # 每天凌晨自动更新
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -19,11 +17,10 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake.gif
 
-      # 自动将 dist 目录提交回主分支
-      - name: Commit and push changes
-        uses: EndBug/add-and-commit@v9
+      # 发布到 gh-pages
+      - name: Push snake files to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: 'chore: update github contribution snake animation'
-          add: 'dist/*.svg dist/*.gif'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          force_orphan: true
