@@ -33,7 +33,7 @@ Hi, I'm crazyairer, a Ph.D. in geophysics. I am currently focused on the collabo
 - ✏️ Original Comic Author (CatTalk).
 
 <p align="right">
-  <img src="raw.githubusercontent.com/crazyairer/crazyairer/main/icon/right_pic.png" width="220"/>
+  <img src="https://raw.githubusercontent.com/crazyairer/crazyairer/main/icon/right_pic.png" width="220"/>
 </p>
 
 ## 📋 Recent Dev Projects
