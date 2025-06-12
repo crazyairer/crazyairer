@@ -18,8 +18,8 @@
 
 Hi, I'm crazyairer, a Ph.D. in geophysics. I am currently focused on the collaborative design and efficient integration of geophysical front-end interfaces and back-end algorithms. Here, I will continue to share various geophysical visualization tools, seismic algorithms, data processing scripts, and integrated solutions that I have developed.<br>
 
-こんにちは、crazyairerと申します。地球物理学の博士として、現在は地球物理分野のフロントエンドインターフェースとバックエンドアルゴリズムの協調設計や効率的な統合に取り組んでいます。<br>
-このリポジトリでは、自作の地球物理可視化ツール、地球物理アルゴリズム、データ処理スクリプト、統合ソリューションなどを継続的に公開していきます。
+こんにちは、crazyairerと申します。地球物理学を専門とする博士です。現在は地球物理分野のフロントエンドインターフェースとバックエンドアルゴリズムの協調設計や効率的な統合に取り組んでいます。<br>
+このリポジトリでは、自身が開発した地球物理可視化ツールや、地球物理に関するアルゴリズム、データ処理スクリプト、統合的なソリューションなどを継続的に公開していきます。
 </p>
 
 <p align="right">
