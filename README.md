@@ -37,5 +37,5 @@ Hi, I'm crazyairer, a Ph.D. in geophysics. I am currently focused on the collabo
 
 | Project Name              | Category                      |
 |---------------------------|-------------------------------|
-| [Ipse_win_x64](#)         | Desktop Software              |
-| [Ipse_linux_amd64](#)     | Graphical User Interface Tool |
+| [Ipse_win_x64](#)         | Windows Desktop Software              |
+| [Ipse_linux_amd64](#)     | Linux Graphical User Interface Tool |
