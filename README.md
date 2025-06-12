@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[icon/unnamed.jpg](https://github.com/crazyairer/crazyairer/blob/6f74cfe16a0433aab6a00c83b943c21b84712674/icon/unnamed.jpg)" width="120" />
+  <img src="https://raw.githubusercontent.com/crazyairer/crazyairer/main/icon/unnamed.jpg" width="120" />
 </p>
 <h1 align="center">薇尔莉特</h1>
 
