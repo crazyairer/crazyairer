@@ -4,12 +4,13 @@
 <h1 align="center">薇尔莉特</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BITCOOKIES-FFD700?style=flat-square" />
-  <img src="https://img.shields.io/badge/Windows-blue?style=flat-square&logo=windows" />
+  <img src="https://img.shields.io/badge/crazyairer-FFD700?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/macOS-black?style=flat-square&logo=apple" />
   <img src="https://img.shields.io/badge/Linux-orange?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/Visitors-9999-orange" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=crazyairer.crazyairer" alt="visitors"/>
 </p>
+
 
 <p align="center">
   Bitcookies is a development brand for sharing some of the desktop software, plugins, themes and games I've developed for download and use.
