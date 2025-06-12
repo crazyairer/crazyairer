@@ -6,10 +6,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/crazyairer-FFD700?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-black?style=flat-square&logo=apple" />
   <img src="https://img.shields.io/badge/Linux-orange?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=crazyairer.crazyairer" alt="visitors"/>
 </p>
+
 
 
 <p align="center">
