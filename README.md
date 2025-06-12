@@ -39,11 +39,12 @@ Hi, I'm crazyairer, a Ph.D. in geophysics. I am currently focused on the collabo
 | [Ipse_win_x64](#)         | Windows Desktop Software              |
 | [Ipse_linux_amd64](#)     | Linux Graphical User Interface Tool |
 
-</h1>
+
+<hr style="border: none; height: 2px; background-color: #ccc; width: 80%; margin: 40px auto;" />
+
 #### 🐍 Personal Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://crazyairer.github.io/crazyairer/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://crazyairer.github.io/crazyairer/github-snake.svg" />
   <img alt="github-snake" src="https://crazyairer.github.io/crazyairer/github-snake.svg" />
 </picture>
-
