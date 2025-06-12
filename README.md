@@ -39,17 +39,8 @@ Hi, I'm crazyairer, a Ph.D. in geophysics. I am currently focused on the collabo
 
 | Project Name              | Category        |
 |---------------------------|----------------|
-| [Ipse_win_x64](#) | Desktop Software   |
-| [Ipse_linux_amd64](#)  | Graphical User Interface Tool   |
-
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://crazyairer.github.io/crazyairer/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://crazyairer.github.io/crazyairer/github-snake.svg" />
-  <img alt="github-snake" src="https://crazyairer.github.io/crazyairer/github-snake.svg" />
-</picture>
+| [Ipse_win_x64](#)         | Desktop Software   |
+| [Ipse_linux_amd64](#)     | Graphical User Interface Tool   |
 
 
 
