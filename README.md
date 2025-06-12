@@ -14,11 +14,11 @@
 
 <p align="center">
 
-你好，我是 crazyairer，一名地球物理学博士。目前，我致力于地球物理前端界面与后端算法的协同设计和高效集成。我将持续分享我个人开发的各类地球物理可视化界面、地球物理算法、数据处理脚本和集成解决方案等。<br>
+你好，我是 crazyairer，一名地球物理学博士。目前，我致力于应用地球物理前端界面与后端算法的协同设计和高效集成。我将持续分享我个人开发的各类地球物理可视化界面、地球物理算法、数据处理脚本和集成解决方案等。<br>
 
-Hi, I'm crazyairer, a Ph.D. in geophysics. I am currently focused on the collaborative design and efficient integration of geophysical front-end interfaces and back-end algorithms. Here, I will continue to share various geophysical visualization tools, seismic algorithms, data processing scripts, and integrated solutions that I have developed.<br>
+Hi, I'm crazyairer, a Ph.D. in applied geophysics. I am currently focused on the collaborative design and efficient integration of geophysical front-end interfaces and back-end algorithms. Here, I will continue to share various geophysical visualization tools, seismic algorithms, data processing scripts, and integrated solutions that I have developed.<br>
 
-こんにちは、crazyairerと申します。地球物理学を専門とする博士です。現在は地球物理分野のフロントエンドインターフェースとバックエンドアルゴリズムの協調設計や効率的な統合に取り組んでいます。<br>
+こんにちは、crazyairerと申します。応用地球物理学を専門とする博士です。現在は応用地球物理分野のフロントエンドインターフェースとバックエンドアルゴリズムの協調設計や効率的な統合に取り組んでいます。<br>
 このリポジトリでは、自身が開発した地球物理可視化ツールや、地球物理に関するアルゴリズム、データ処理スクリプト、統合的なソリューションなどを継続的に公開していきます。
 </p>
 
