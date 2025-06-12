@@ -26,14 +26,25 @@ Hi, I'm crazyairer, a Ph.D. in geophysics. I am currently focused on the collabo
 </p>
 
 
-## ⚡ A Few Quick Facts
-- 🎓 Doctor of Philosophy (Ph.D.), Specialization: Applied Geophysics
-- 💻 Writing code with *Python* / *C* / *Matlab*.
-- 📨 Contact: lijiahang0921@gmail.com
+<table>
+  <tr>
+    <!-- 左侧内容 -->
+    <td style="vertical-align:top; min-width:350px;">
+      <h2>⚡ A Few Quick Facts</h2>
+      <ul>
+        <li>🎓 Doctor of Philosophy (Ph.D.), Specialization: Applied Geophysics</li>
+        <li>💻 Writing code with <em>Python</em> / <em>C</em> / <em>Matlab</em>.</li>
+        <li>📨 Contact: <a href="mailto:lijiahang0921@gmail.com">lijiahang0921@gmail.com</a></li>
+      </ul>
+    </td>
+    <!-- 右侧人物图，宽度可调整 -->
+    <td style="vertical-align:top; text-align:right; min-width:220px;">
+      <img src="https://raw.githubusercontent.com/crazyairer/crazyairer/main/icon/right_pic.png" width="180"/>
+    </td>
+  </tr>
+</table>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/crazyairer/crazyairer/main/icon/right_pic.png" width="220"/>
-</p>
+<br>
 
 ## 📋 Recent Dev Projects
 
