@@ -23,7 +23,7 @@ Hi, I'm crazyairer, a Ph.D. in geophysics. I am currently focused on the collabo
 </p>
 
 <p align="right">
-  <img height="240px" src="https://raw.githubusercontent.com/crazyairer/crazyairer/main/icon/right_pic.png" align="right" alt="Violet">
+  <img height="340px" src="https://raw.githubusercontent.com/crazyairer/crazyairer/main/icon/right_pic.png" align="right" alt="Violet">
 </p>
 
 #### ⚡ A Few Quick Facts
