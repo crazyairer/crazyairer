@@ -27,11 +27,10 @@ Hi, I'm crazyairer, a Ph.D. in geophysics. I am currently focused on the collabo
 
 
 ## ⚡ A Few Quick Facts
-
-- 🔗 Download at [repo](https://github.com/yourname/yourrepo) or [your site](https://yourdomain.com)
-- 👤 Webmaster: [yourname](https://yourdomain.com)
-- 🎨 Illustration Author: [My illustrations](#)
-- 📨 Contact: xxx@xxx.com
+- 🎓 Doctor of Philosophy (Ph.D.), Specialization: Applied Geophysics
+- ⚡ Writing code with Python / C / Matlab.
+- 📨 Contact: lijiahang0921@gmail.com
+- ✏️ Original Comic Author (CatTalk).
 
 <p align="right">
   <img src="https://yourdomain.com/your-character.png" width="220"/>
@@ -41,9 +40,9 @@ Hi, I'm crazyairer, a Ph.D. in geophysics. I am currently focused on the collabo
 
 | Project Name              | Category        |
 |---------------------------|----------------|
-| [Pudding Illustration](#) | Illustration   |
-| [Frosted Glass Theme](#)  | WinRAR Theme   |
-| ...                       | ...            |
+| [Ipse_Win_x64](#) | Desktop Software   |
+| [Ipse_Linux_amd64](#)  | Graphical User Interface Tool   |
+
 
 
 
