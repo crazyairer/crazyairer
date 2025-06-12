@@ -28,7 +28,7 @@ Hi, I'm crazyairer, a Ph.D. in geophysics. I am currently focused on the collabo
 
 ## ⚡ A Few Quick Facts
 - 🎓 Doctor of Philosophy (Ph.D.), Specialization: Applied Geophysics
-- 💻 Writing code with Python / C / Matlab.
+- 💻 Writing code with *Python* / *C* / *Matlab*.
 - 📨 Contact: lijiahang0921@gmail.com
 - ✏️ Original Comic Author (CatTalk).
 
