@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://yourdomain.com/logo.png" width="120" />
 </p>
-<h1 align="center">Bitcookies</h1>
+<h1 align="center">薇尔莉特</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BITCOOKIES-FFD700?style=flat-square" />
